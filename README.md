@@ -2,6 +2,7 @@
 **B.Tech CSE (Data Science) Student**
 
 Email Me 👉 ✉️ **karthikvnr27@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 LinkedIn 👉 ✉️ **https://www.linkedin.com/in/karthik-cherupally-39643a2a3/** 
 - 🔭 **I'm currently working on:** PaathaDharma — a full-stack insurance-risk platform for farmers with geolocation-based scoring and AI image analysis
 - 🌱 **I'm currently learning:** Edge AI & on-device inference (ESP32/S3, 1D CNN) for the Vortex-Dry breath analyzer project
