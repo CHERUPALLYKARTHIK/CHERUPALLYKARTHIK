@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **karthikvnr27@gmail.com** For Collaboration/Project or Any
 LinkedIn 👉 ✉️ **https://www.linkedin.com/in/karthik-cherupally-39643a2a3/** 
 
 I’m a developer who loves building digital experiences. I enjoy working across the entire stack—from crafting intuitive UI designs and polished frontends to building robust backends and experimenting with AI/ML.
-
 I’m always exploring new technologies and am eager to collaborate on projects that bridge the gap between creative design and intelligent, functional code.
 ⚡ Fun fact: I like taking projects end-to-end — from raw data to a working prototype people can actually use.
 ---
