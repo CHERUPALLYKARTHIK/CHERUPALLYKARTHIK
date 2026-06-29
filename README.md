@@ -4,14 +4,11 @@
 Email Me 👉 ✉️ **karthikvnr27@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 LinkedIn 👉 ✉️ **https://www.linkedin.com/in/karthik-cherupally-39643a2a3/** 
-- 🔭 **I'm currently working on:** PaathaDharma — a full-stack insurance-risk platform for farmers with geolocation-based scoring and AI image analysis
-- 🌱 **I'm currently learning:** Edge AI & on-device inference (ESP32/S3, 1D CNN) for the Vortex-Dry breath analyzer project
-- 👯 **I'm looking to collaborate on:** ML-powered web platforms, healthcare-tech, and agri-tech projects
-- 🤔 **I'm looking for help with:** Edge AI model deployment and real-world sensor data validation
-- 💬 **Ask me about:** Machine Learning, React/Node.js full-stack development, REST APIs, TensorFlow
-- 📫 **How to reach me:** karthikvnr27@gmail.com
-- ⚡ **Fun fact:** I like taking projects end-to-end — from raw data to a working prototype people can actually use
 
+I’m a developer who loves building digital experiences. I enjoy working across the entire stack—from crafting intuitive UI designs and polished frontends to building robust backends and experimenting with AI/ML.
+
+I’m always exploring new technologies and am eager to collaborate on projects that bridge the gap between creative design and intelligent, functional code.
+⚡ Fun fact: I like taking projects end-to-end — from raw data to a working prototype people can actually use.
 ---
 
 # 💻 Tech Stack:
